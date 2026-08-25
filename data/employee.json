@@ -1,0 +1,189 @@
+{
+  "personalInfo": {
+    "name": "Tasfik bin Osman",
+    "bgName": "TASFIK",
+    "role": "Business Research Manager",
+    "email": "tasfik@smartbyte.ltd",
+    "phone": "+880 1700 000000",
+    "location": "Chittagong, Bangladesh"
+  },
+  "hero": {
+    "headline": "Research, Applied Differently.",
+    "subHeadlineLeft": "The Research Expert. That's Tasfik.",
+    "subHeadlineRight": "Delivering data-backed market analysis, competitive intelligence, and business feasibility strategies at Smartbyte Ltd.",
+    "profileImageUrl": "/images/myImg.png",
+    "ctaButtons": [
+      { "label": "Book a Call", "link": "#contact" },
+      { "label": "About Me", "link": "#about" }
+    ]
+  },
+  "badges": [
+    {
+      "type": "skills",
+      "title": "Core Skills",
+      "items": ["Market Research", "Data Analysis", "Competitor Audit", "Feasibility Study", "Consumer Insights"]
+    },
+    {
+      "type": "number",
+      "value": "40+",
+      "label": "Research Reports Completed",
+      "icon": "FiFileText"
+    },
+    {
+      "type": "number",
+      "value": "99%",
+      "label": "Data Accuracy Rate",
+      "icon": "FiCheckCircle"
+    }
+  ],
+  "about": {
+    "bio": "Analytical and detail-oriented Business Research Manager at Smartbyte Ltd. Combining strong university foundations with actionable data frameworks to help businesses validate ideas, evaluate competitors, and unlock growth opportunities.",
+    "stats": [
+      { "label": "Location", "value": "Chittagong, Bangladesh" },
+      { "label": "Education", "value": "CSE / B.Sc. in Computer Science" },
+      { "label": "Current Role", "value": "Business Research Manager at Smartbyte Ltd." },
+      { "label": "Specialization", "value": "Market Intelligence & Growth Strategy" }
+    ]
+  },
+  "experience": [
+    {
+      "id": "1",
+      "role": "Business Research Manager",
+      "company": "Smartbyte Ltd.",
+      "period": "2026 - Present",
+      "type": "Full-Time",
+      "description": "Leading market intelligence projects, industry benchmarking, and data-driven strategy reports for client digital transformations.",
+      "highlights": [
+        "Authored 25+ comprehensive market analysis reports for local and international tech clients",
+        "Conducted quantitative and qualitative consumer behavior studies for SaaS products"
+      ]
+    },
+    {
+      "id": "2",
+      "role": "Research & Strategy Associate (Academic Project Lead)",
+      "company": "Smartbyte Ltd.",
+      "period": "2025 - 2026",
+      "type": "Contract / Project",
+      "description": "Gathered primary and secondary industry data to evaluate digital market feasibility for emerging startup clients.",
+      "highlights": [
+        "Built competitor profiling matrix templates now used across Smartbyte team workflows",
+        "Assisted in ROI projections and pricing model recommendations for digital solutions"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "01",
+      "title": "Market Research & Intelligence",
+      "description": "In-depth primary and secondary research analyzing target demographics, industry trends, and market entry barriers.",
+      "icon": "FiTrendingUp",
+      "skills": ["Industry Audits", "Demographic Analysis", "Market Sizing"]
+    },
+    {
+      "id": "02",
+      "title": "Competitor Benchmarking",
+      "description": "Comprehensive evaluation of competitor strategies, product positioning, pricing models, and digital footprints.",
+      "icon": "FiSearch",
+      "skills": ["SWOT Analysis", "Feature Comparison", "Pricing Audits"]
+    },
+    {
+      "id": "03",
+      "title": "Business Feasibility & Strategy",
+      "description": "Data-backed feasibility studies for new web products, digital services, and brand expansions under Smartbyte Ltd.",
+      "icon": "FiPieChart",
+      "skills": ["Risk Evaluation", "ROI Forecasting", "Growth Roadmap"]
+    },
+    {
+      "id": "04",
+      "title": "Consumer Behavior Insights",
+      "description": "Transforming raw survey data, feedback, and user analytics into actionable product and marketing recommendations.",
+      "icon": "FiUserCheck",
+      "skills": ["Survey Design", "User Feedback Analysis", "Persona Building"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "title": "FinTech SaaS Market Feasibility & Entry Strategy",
+      "client": "Smartbyte Ltd. Client",
+      "category": "Feasibility Study",
+      "period": "2026",
+      "impactMetric": "+40% Conversion Confidence",
+      "description": "Executed an end-to-end market viability study, assessing regulatory barriers, competitor pricing models, and target demographic demand for a regional B2B FinTech product.",
+      "deliverables": [
+        "Target Audience Profiling",
+        "Competitor Pricing Matrix",
+        "Financial ROI Projections"
+      ],
+      "tags": ["Market Research", "Financial Modeling", "Competitor Audit"]
+    },
+    {
+      "id": "02",
+      "title": "Cross-Border E-Commerce Competitor Benchmarking",
+      "category": "Competitor Audit",
+      "client": "Regional Retail Brand",
+      "period": "2025 - 2026",
+      "impactMetric": "3 Direct Market Gaps Identified",
+      "description": "Evaluated 12 major e-commerce players across South Asia to uncover pricing gaps, fulfillment bottlenecks, and underserved consumer segments.",
+      "deliverables": [
+        "12-Company SWOT Matrix",
+        "Customer Sentiment Analysis",
+        "Go-To-Market Roadmap"
+      ],
+      "tags": ["SWOT Analysis", "Consumer Insights", "Retail Strategy"]
+    },
+    {
+      "id": "03",
+      "title": "SaaS Product-Market Fit & User Feedback Analysis",
+      "category": "Consumer Research",
+      "client": "Tech Venture",
+      "period": "2025",
+      "impactMetric": "92% Data Accuracy Rate",
+      "description": "Synthesized survey data from 500+ respondents and led qualitative focus groups to refine feature prioritization and subscription tiers.",
+      "deliverables": [
+        "Quantitative Survey Findings",
+        "User Persona Cards",
+        "Feature Demand Ranking"
+      ],
+      "tags": ["Survey Design", "Data Analytics", "User Research"]
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "What research methodologies do you use at Smartbyte Ltd.?",
+      "answer": "We combine quantitative primary research (surveys, statistical modeling) and secondary market audits (industry databases, regulatory filings, competitor benchmarking) to deliver verified, actionable intelligence."
+    },
+    {
+      "id": "faq-2",
+      "question": "How long does a standard market feasibility report take?",
+      "answer": "Standard feasibility studies typically take 2 to 3 weeks depending on market scope. Accelerated 7-day competitive intelligence deep dives are also available for urgent decision-making."
+    },
+    {
+      "id": "faq-3",
+      "question": "Can research reports be customized for specific niche industries?",
+      "answer": "Yes. Every report is tailored to your target sector—including SaaS, FinTech, E-Commerce, Retail, and HealthTech—with customized metrics matching your business goals."
+    },
+    {
+      "id": "faq-4",
+      "question": "How is client data and proprietary strategy kept confidential?",
+      "answer": "All consultations and project data are protected under strict Non-Disclosure Agreements (NDAs). Your strategic plans and research outcomes remain 100% confidential."
+    }
+  ],
+  "contact": {
+    "headline": "Let's Connect Directly.",
+    "subheadline": "Have a research project, competitor audit, or feasibility study in mind? Reach out via WhatsApp, email, or direct call.",
+    "email": "tasfik@smartbyte.ltd",
+    "phone": "+880 1700 000000",
+    "whatsapp": "+8801700000000",
+    "whatsappDisplay": "+880 1700 000000",
+    "location": "Chittagong, Bangladesh",
+    "availability": "Available for Strategic Research & Audits",
+    "socials": [
+      { "platform": "LinkedIn", "url": "#", "handle": "tasfik-hossain" },
+      { "platform": "WhatsApp", "url": "https://wa.me/8801867298811", "handle": "Direct Chat" },
+      { "platform": "Email", "url": "mailto:tasfik@smartbyte.ltd", "handle": "tasfik@smartbyte.ltd" }
+    ]
+  },
+  "navLinks": ["HOME", "ABOUT ME", "PROJECTS", "SERVICES", "EXPERIENCE", "FAQ"]
+}
