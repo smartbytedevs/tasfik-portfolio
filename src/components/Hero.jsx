@@ -88,7 +88,7 @@ export default function Hero() {
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.6, delay: 0.6, ease: "easeOut" }}
-          className="absolute top-[40%] left-3 z-30 max-w-[150px] rounded-2xl border border-white/25 bg-black/65 p-4 shadow-[0_10px_30px_rgba(0,0,0,0.5)] backdrop-blur-xl md:hidden"
+          className="absolute top-[30%] left-3 z-30 max-w-[150px] rounded-2xl border border-white/25 bg-black/65 p-4 shadow-[0_10px_30px_rgba(0,0,0,0.5)] backdrop-blur-xl md:hidden"
         >
           <span className="mb-2 block border-b border-white/10 pb-1 text-xs font-black uppercase tracking-widest text-[#839dc2]">
             {skillsBadge.title}
@@ -113,7 +113,7 @@ export default function Hero() {
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.6, delay: 0.8, ease: "easeOut" }}
-          className="absolute top-[42%] right-3 z-30 min-w-[130px] rounded-2xl border border-white/25 bg-black/65 p-5 text-left shadow-[0_10px_30px_rgba(0,0,0,0.5)] backdrop-blur-xl md:hidden"
+          className="absolute top-[52%] right-3 z-30 min-w-[130px] rounded-2xl border border-white/25 bg-black/65 p-5 text-left shadow-[0_10px_30px_rgba(0,0,0,0.5)] backdrop-blur-xl md:hidden"
         >
           <span className="block text-4xl font-black leading-none tracking-tight text-[#839dc2] drop-shadow-md md:text-5xl">
             {primaryMetric.value}
